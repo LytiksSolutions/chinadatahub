@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-02-04T20:33:19Z",
+  "exports_to": "China",
+  "total_rows": 3364,
+  "total_fob": 58291256.26,
+  "by_file": [
+    {
+      "source_excel": "2023 exports por subpartida.xlsx",
+      "file": "by_file/2023_exports_por_subpartida.json",
+      "rows": 695,
+      "total_fob": 14577858.98
+    },
+    {
+      "source_excel": "2022 exports por subpartida.xlsx",
+      "file": "by_file/2022_exports_por_subpartida.json",
+      "rows": 612,
+      "total_fob": 14405956.58
+    },
+    {
+      "source_excel": "2021 exports por subpartida.xlsx",
+      "file": "by_file/2021_exports_por_subpartida.json",
+      "rows": 650,
+      "total_fob": 10646990.92
+    },
+    {
+      "source_excel": "2025 exports por subpartida.xlsx",
+      "file": "by_file/2025_exports_por_subpartida.json",
+      "rows": 687,
+      "total_fob": 10379422.82
+    },
+    {
+      "source_excel": "2024 exports por subpartida.xlsx",
+      "file": "by_file/2024_exports_por_subpartida.json",
+      "rows": 720,
+      "total_fob": 8281026.96
+    }
+  ]
+}
